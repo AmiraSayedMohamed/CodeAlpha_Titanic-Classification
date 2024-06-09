@@ -4,31 +4,6 @@
 
 <p align="center"> Welcome to the Titanic Classification project repository! This project aims to predict whether a passenger on the Titanic survived or not based on various features such as age, gender, class, and more. It serves as a classic introductory machine learning project for those interested in data science and predictive modeling. </p>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project-">About The Project</a>
-      <ul>
-        <li><a href="#project-workflow-">Project Workflow</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started-">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites-">Prerequisites</a></li>
-        <li><a href="#installation-">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage-">Usage</a></li>
-    <li><a href="#contributing-">Contributing</a></li>
-    <li><a href="#license-">License</a></li>
-    <li><a href="#acknowledgements-">Acknowledgments</a></li>
-    <li><a href="#contact-%EF%B8%8F">Contact</a></li>
-  </ol>
-</details>
-
 <!-- About the project-->
 ## About the Project 💻
 
