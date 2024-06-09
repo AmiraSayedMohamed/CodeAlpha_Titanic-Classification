@@ -1,11 +1,5 @@
 # 🚢 Titanic Classification 
 
-<br />
-<div align="center">
-  <a href="https://github.com/Ruban2205/titanic-classification/">
-    <img src="assets/titanic.jpg" alt="Logo" width="160" height="80">
-  </a>
-
   <h3 align="center">Titanic Survival Prediction | Titanic Classification</h3>
 
 <p align="center"> Welcome to the Titanic Classification project repository! This project aims to predict whether a passenger on the Titanic survived or not based on various features such as age, gender, class, and more. It serves as a classic introductory machine learning project for those interested in data science and predictive modeling. </p>
@@ -46,12 +40,8 @@ Key components of this project include:
 - Exploratory Data Analysis (EDA) to gain insights into the dataset.
 - Feature engineering to create meaningful features.
 - Model selection and training.
-- Model evaluation and performance metrics. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!--Built with Section--> 
+- Model evaluation and performance metrics.
+- 
 ## Project Workflow 📚
 
 The project follows a structured workflow:
@@ -70,17 +60,10 @@ The project follows a structured workflow:
 
 7. **Conclusion and Results:** In the final step, we summarize the results of the classification models. We may provide insights into which features were most important for prediction and discuss the strengths and weaknesses of the chosen models. The conclusion provides an overall assessment of the project's success and any future directions for improvement.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 I want to express my appreciation to the people who created the [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) and the larger machine learning and data science community for their insightful contributions.
 
 You may learn more about the principles of machine learning, the use of models, and the actual applications of AI in the categorization of issues by investigating and participating in my Iris categorization Machine Learning Project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 **Thank You!!**
 
