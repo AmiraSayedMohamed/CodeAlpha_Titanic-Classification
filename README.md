@@ -1,6 +1,5 @@
 # 🚢 Titanic Classification 
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Ruban2205/titanic-classification/">
@@ -38,8 +37,6 @@
 
 <!-- About the project-->
 ## About the Project 💻
-
-[![Titanic_Classification_Product_Screenshot](assets/titanic-home-screenshot.jpg)](assets/titanic-home-screenshot.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, the Titanic sank after hitting an iceberg, resulting in the deaths of over 1,500 passengers and crew. This project attempts to predict whether a given passenger survived or not using machine learning algorithms. 
 
